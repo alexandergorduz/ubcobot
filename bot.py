@@ -1,4 +1,3 @@
-import requests
 import config
 import keyboards
 import file_creator
